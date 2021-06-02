@@ -1,0 +1,11 @@
+{
+  "name": "tracery_instruments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "masto": "^4.1.1",
+    "set-interval-async": "^2.0.3",
+    "tracery-grammar": "^2.7.4"
+  }
+}

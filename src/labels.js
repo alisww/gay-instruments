@@ -1,0 +1,22 @@
+module.exports = [
+  "sapphic",
+  "really gay #genders#",
+  "ace person",
+  "bi #genders#",
+  "trans #genders#",
+  "nb lesbian",
+  "demisexual #genders#",
+  "demiromantic #genders#",
+  "greyace #genders#",
+  "lesbiab",
+  "less bien",
+  "lesbian",
+  "he/him lesbian",
+  "agender person",
+  "pan #genders#",
+  "poly #genders#",
+  "gay #genders#",
+  "aroace #genders#",
+  "achillean",
+  "omni #genders#"
+]
